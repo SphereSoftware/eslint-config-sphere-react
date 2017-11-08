@@ -1,9 +1,9 @@
 # eslint-config-sphere-react [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
-[npm-image]: https://img.shields.io/npm/v/eslint-config-standard.svg
-[npm-url]: https://npmjs.org/package/eslint-config-standard
-[downloads-image]: https://img.shields.io/npm/dm/eslint-config-standard.svg
-[downloads-url]: https://npmjs.org/package/eslint-config-standard
+[npm-image]: https://img.shields.io/npm/v/eslint-config-sphere-react.svg
+[npm-url]: https://npmjs.org/package/eslint-config-sphere-react
+[downloads-image]: https://img.shields.io/npm/dm/eslint-config-sphere-react.svg
+[downloads-url]: https://npmjs.org/package/eslint-config-sphere-react
 [standard-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [standard-url]: https://standardjs.com
 
