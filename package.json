@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-sphere-react",
+  "version": "1.0.0",
+  "description": "ShpereInc ESlint config for React apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SphereSoftware/eslint-config-sphere-react.git"
+  },
+  "author": "Dmytro Chepurnyi",
+  "bugs": {
+    "url": "https://github.com/SphereSoftware/eslint-config-sphere-react/issues"
+  },
+  "homepage": "https://github.com/SphereSoftware/eslint-config-sphere-react#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.10.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard-jsx": "^4.0.2",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "tape": "^4.8.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=3.19.0",
+    "eslint-plugin-import": ">=2.2.0",
+    "eslint-plugin-node": ">=4.2.2",
+    "eslint-plugin-promise": ">=3.5.0",
+    "eslint-plugin-standard": ">=3.0.0"
+  }
+}

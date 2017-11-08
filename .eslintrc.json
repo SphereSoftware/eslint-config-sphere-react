@@ -1,0 +1,15 @@
+{
+  "parser": "babel-eslint",
+  "extends": [
+    "standard",
+    "standard-jsx"
+  ],
+  "rules": {
+    "space-before-function-paren": ["error", "never"],
+    "object-curly-spacing": ["error", "always"],
+    "jsx-quotes": [1, "prefer-double"],
+    "react/jsx-curly-spacing": [2, "always"],
+    "no-return-assign": 0,
+    "no-use-before-define": 0
+  }
+}
